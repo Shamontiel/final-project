@@ -1,0 +1,48 @@
+body, h1.heading-font > span {
+    font-family: 'Source Serif Pro', serif;
+}
+
+.heading font {
+font-family: 'Source Serif Pro', serif;
+}
+h1.heading-font > span {
+ font-weight: 300;
+}
+header > h1 {
+text-align: center;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(0, 63, 136);
+  color: rgb(153, 206, 250);
+}
+.fa {
+  padding: 50x;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 25px 25px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-twitter {
+  color: white;
+}
+
+.fa-youtube {
+  color: white;
+}
+
+.fa-instagram {
+  color: white;
+}
+
+.fa-pinterest {
+  color: white;
+}
